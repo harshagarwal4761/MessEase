@@ -80,7 +80,7 @@ The app supports a dark mode for better user experience.
 ---
 
 ## **Demo Video**
-<video src="https://github.com/user-attachments/assets/df938390-705b-43bd-bc66-a69c2b5b82ea" controls="controls" width="100%"></video>
+<video src="https://github.com/user-attachments/assets/46a9b4cd-45b5-4116-b89f-b66da9949dc8" controls="controls" width="100%"></video>
 
 ---
 
