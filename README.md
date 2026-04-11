@@ -42,8 +42,6 @@ Adjust announcement timings as needed.
 Seamlessly make payments to the mess through the app.  
 <img src="https://github.com/user-attachments/assets/d22acd90-7ae2-4de8-9355-44ff01999697" alt="Payment" width="300" height="600">
 
-
-
 ### **9. Downloadable Menu**
 Download the current menu, which updates automatically.  
 <img src="https://github.com/user-attachments/assets/3b7d1c80-6995-4bbd-b161-1b759d030588" width="300" height="600"/>
@@ -82,7 +80,7 @@ The app supports a dark mode for better user experience.
 ---
 
 ## **Demo Video**
-[Watch Demo](https://github.com/user-attachments/assets/02c9048d-0d8a-4c44-aea7-d3542ae30826)
+<video src="https://github.com/user-attachments/assets/df938390-705b-43bd-bc66-a69c2b5b82ea" controls="controls" width="100%"></video>
 
 ---
 
