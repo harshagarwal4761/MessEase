@@ -178,7 +178,7 @@
                         android:minHeight="150dp"
                         android:inputType="textCapSentences"
                         android:hint="What did you like or dislike?"
-                        android:textColorHint="@color/nav_element"
+                        android:textColorHint="?android:attr/textColorSecondary"
                         android:textColor="@color/nav_element"
                         android:padding="16dp" />
                 </com.google.android.material.textfield.TextInputLayout>
